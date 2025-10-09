@@ -1,11 +1,11 @@
 # Python - Class 01
 ## কেন Python Programming Course-টি করবেন?
-
-বর্তমানে সবচেয়ে জনপ্রিয় Programming Language-গুলির মধ্যে অন্যতম হচ্ছে Python। ছোটখাটো Automation থেকে নিয়ে Machine Learning, Artificial Intelligence, Data Science এ এক অদ্বিতীয় অবস্থানে আছে Python. এর গুরুত্ব বিবেচনায় বাংলাদেশের ক্লাস নাইন-টেনের পাঠ্যক্রমেও এটি যুক্ত করা হয়েছে।
-
-পাইথন শেখা দক্ষ প্রোগ্রামারদের জন্য অসংখ্য কর্মসংস্থানের সুযোগ তৈরি করে। ওয়েব ডেভেলপমেন্ট, ডেটা অ্যানালাইসিস, কৃত্রিম বুদ্ধিমত্তা, বৈজ্ঞানিক গবেষণা, কিংবা বিভিন্ন অটোমেশন—সব ক্ষেত্রেই এর ব্যাপক ব্যবহার রয়েছে।
-
-এর বিশাল লাইব্রেরি ও শক্তিশালী ফ্রেমওয়ার্ক জটিল প্রকল্পগুলোকে সহজ করে তোলে এবং দ্রুত মার্কেটে নিয়ে যেতে সাহায্য করে। তাই সফটওয়্যার ডেভেলপার, মেশিন লার্নিং ইঞ্জিনিয়ার, ডেটা সায়েন্টিস্ট বা অটোমেশন বিশেষজ্ঞ হওয়ার জন্য পাইথন একটি আদর্শ ভাষা।
+- Python is one of the most used language in the industry
+- Web Development Django
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- Cyber Security
 
 ## Python দিয়ে Programming Course-টির ডিফিকালটি লেভেল (কাঠিন্য মাত্রা):
 
@@ -47,16 +47,22 @@
 - বিভিন্ন সোশ্যাল মিডিয়ায় শেয়ার করতে পারবেন
 
 ## প্রোগ্রামিং কী?
-
-
+- Communication
+- Computer
+- Intention, Objective
+- 
 ## Programming Languages
-- Fortran
-- C
+- Fortran - Old School
+- Assembly - Old School
+- Pascal - Old School
+- Basic - Old School
+- COBOL - Old School
+- C - Low-level
 - C++ - Embedded system, IoT, Game development
-- Java - Enterprise
+- Java - Enterprise Application
 - JavaScript - Web Development
-- Dart - Flutter
-- Golang - Backend
+- Dart - Flutter App Development
+- Golang - Backend Development
 - Kotlin - Android App
 - Python
 - php - Web backend
@@ -68,3 +74,61 @@
 - R - Data analysis, statistics
 - Scala - Big data processing, functional programming
 - Haskell - Functional programming, academic research
+
+## Upcoming Courses
+- Web Development with HTML, CSS, and JavaScript - Build responsive websites and web applications
+- Mobile App Development (Android & iOS) - Create native and cross-platform mobile apps
+- IoT and Embedded Systems - Design and program Internet of Things devices and embedded systems
+- Robotics Programming - Learn to program robots for automation and control
+- Data Science and Machine Learning - Analyze data and build predictive models
+- Cybersecurity Fundamentals - Protect systems and networks from cyber threats
+- Cloud Computing with AWS/Azure - Deploy and manage applications in the cloud
+- Artificial Intelligence and Neural Networks - Develop AI-powered applications and deep learning models
+- Blockchain Development - Build decentralized applications and smart contracts
+- Game Development with Unity - Create interactive games for multiple platforms
+
+## What to do before next class
+- LinkedIn account
+- Github account
+- Phone
+  - Pydroid IDE
+- Laptop/Desktop
+  - VS Code
+  - Python 3
+- Notebook/Khata/Google Docs
+  - Note taking
+- Quiz
+- Course Note/Slide
+- Q&A
+
+## Class Schedule
+- Classes per week
+- At night 9:30 PM
+- Friday, Saturday - Live Class
+- Monday/Tuesday
+
+## CSE??
+
+## Engineering Mother Subject
+- CSE - ICT
+- EEE - ECE, ETE
+- Civil
+- Mechanical
+
+## Why?
+- Jhankar Mahbub - IPE Indrustial and Prodcution Engineering
+## Neural Gem
+- Coding for Kids, Teens & Youths
+- Connecting the Neurons - Brain Cell
+  - Learning
+  - Earning
+- Monetary System
+  - Money
+  - Physical Product
+  - ChatGPT, Gemini Pro - Electrical Product
+    - Value - Scamming
+- Job apnar kache asbe
+
+## How much time should we dedicate towards learning programming?
+- 8 Hours per week
+- 1.5 Hours per day
