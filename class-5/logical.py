@@ -1,0 +1,6 @@
+print(10 > 5)
+print(20 < 30)
+print(10 > 5 and 20 > 30)
+print(10 > 5 or 20 > 30)
+print(not True)
+print(not False)
