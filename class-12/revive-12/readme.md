@@ -6,3 +6,5 @@
 - input, output
 - DRY -> Don't Repeat Yourself
 - একই কোড বারবার লেখা থেকে রক্ষা পাওয়া যায়
+
+## Variable Scope
