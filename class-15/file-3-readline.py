@@ -1,0 +1,11 @@
+with open('readme.md', 'r') as file1: # alias
+    line1 = file1.readline()
+    line2 = file1.readline()
+    line3 = file1.readline()
+    line4 = file1.readline()
+    line5 = file1.readline()
+    print(line1)
+    print(line2)
+    print(line3)
+    print(line4)
+    print(line5)
