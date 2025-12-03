@@ -1,0 +1,64 @@
+# Class - 19
+## Class & Object
+- Class -> blueprint, নকশা
+- Object -> blueprint বা নকশা দিয়ে বানানো কোন কিছু -> তাজমহল, বুর্জ খলিফা
+- কলম -> Class
+  - কালি -> কালো, নীল, লাল, গোলাপি
+  - খাপ -> বিভিন্ন আকারের
+  - নিব -> চিকন, মোটা
+  - শিষ -> ফিক্সড, পরিবর্তনশীল
+- Matador Pin point, Linc -> Object
+- প্রাণী -> Class
+  - হাত
+  - পা
+  - ডাক
+  - রঙ
+- বাঘ -> প্রাণী টাইপের Object/Class এর instance
+  - ০ (হাত)
+  - ৪ (পা)
+  - হুঙ্কার
+  - ডোরাকাটা হলদে-কালো
+- মাছ -> প্রাণী টাইপের Object/Class এর instance
+  - ৪
+  - ০
+  - নাই
+  - সিলভার
+- মানুষ -> প্রাণী টাইপের Object/Class এর instance
+  - ২
+  - ২
+  - কথা বলা
+  - বাদামী, কালচে বাদামী, সাদা
+- সকল ক্ষার ক্ষারক হলেও, সকল ক্ষারক ক্ষার নয়
+- Book -> Class
+  - Title
+  - ISBN
+  - Author(s)
+  - Edition
+  - Publisher
+- book1 -> Book Class এর instance/object
+  - দেশে বিদেশে
+  - 1289236498
+  - সৈয়দ মুজতবা আলী
+  - ২য়
+  - জানি না
+- Car -> Class
+  - Brand
+  - Model
+  - Edition
+  - Price
+  - Horn()
+- car1 -> Car Class এর একটা instance/object 
+  - BMW
+  - X2
+  - 3rd
+  - 200,000$
+- car2 -> Car Class এর একটা instance/object
+  - BYD
+  - MR51
+  - 2nd
+  - 250,000$
+
+## Concepts in OOP
+- Class
+  - Attribute -> বৈশিষ্ট্য -> Variable
+  - Method -> Function
